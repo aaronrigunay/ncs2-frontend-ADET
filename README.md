@@ -51,6 +51,8 @@ To get the NCS II Information Management System up and running on your local mac
 
 * **React** - A JavaScript library for building user interfaces.
 
+* **Expo** - A framework and platform for universal React applications such as Android or iOS.
+
 * **Components** - Modular and reusable UI elements.
 
 * **JSX** - A syntax extension for JavaScript, used with React to describe UI.
@@ -65,4 +67,8 @@ To get the NCS II Information Management System up and running on your local mac
 
 * **`children` Prop** - For composing components.
 
-* *(Add any other specific libraries, frameworks, or databases used, e.g., Node.js, Express, MongoDB, Tailwind CSS, etc.)*
+## Disclaimer:
+
+* This project does not have a backend yet and is still in progress.
+  
+* Also the previous repository had errors so it needed to be renewed.
