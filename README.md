@@ -27,7 +27,7 @@ The NCS II Information Management System is a comprehensive application designed
 ![Grading/Attendance Module Screenshot 1](frontend/screenshots/grade1sc.png)
 ![Grading/Attendance Module Screenshot 2](frontend/screenshots/grade2sc.png)
 ![Grading/Attendance Module Screenshot 3](frontend/screenshots/grade3sc.png)
-![Grading/Attendance Module Screenshot 3](frontend/screenshots/grademobile1sc.png)
+![Grading/Attendance Module Screenshot 4](frontend/screenshots/attendancemobile1sc.png)
 
 4. **Requesting Module Screenshots:** Overview of Requesting Module.
 ![Requesting Module Screenshot 1](frontend/screenshots/request1sc.png)
