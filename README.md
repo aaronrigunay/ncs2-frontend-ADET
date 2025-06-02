@@ -17,23 +17,23 @@ The NCS II Information Management System is a comprehensive application designed
 ## Screenshots
 
 1. **Registration Module Screenshots:** Overview of Registration Module.
-![Registration Module Screenshot 1](screenshots/student1sc.png)
-![Registration Module Screenshot 2](screenshots/student2sc.png)
-![Registration Module Screenshot 3](screenshots/student3sc.png)
-![Registration Module Screenshot 4](screenshots/studentmobile1sc.png)
-![Registration Module Screenshot 5](screenshots/studentmobile2sc.png)
+![Registration Module Screenshot 1](frontend/screenshots/student1sc.png)
+![Registration Module Screenshot 2](frontend/screenshots/student2sc.png)
+![Registration Module Screenshot 3](frontend/screenshots/student3sc.png)
+![Registration Module Screenshot 4](frontend/screenshots/studentmobile1sc.png)
+![Registration Module Screenshot 5](frontend/screenshots/studentmobile2sc.png)
 
 3. **Grading/Attendance Module Screenshots:** Overview of Grading/Attendance Module.
-![Grading/Attendance Module Screenshot 1](screenshots/grade1sc.png)
-![Grading/Attendance Module Screenshot 2](screenshots/grade2sc.png)
-![Grading/Attendance Module Screenshot 3](screenshots/grade3sc.png)
-![Grading/Attendance Module Screenshot 3](screenshots/grademobile1sc.png)
+![Grading/Attendance Module Screenshot 1](frontend/screenshots/grade1sc.png)
+![Grading/Attendance Module Screenshot 2](frontend/screenshots/grade2sc.png)
+![Grading/Attendance Module Screenshot 3](frontend/screenshots/grade3sc.png)
+![Grading/Attendance Module Screenshot 3](frontend/screenshots/grademobile1sc.png)
 
 4. **Requesting Module Screenshots:** Overview of Requesting Module.
-![Requesting Module Screenshot 1](screenshots/request1sc.png)
-![Requesting Module Screenshot 2](screenshots/request2sc.png)
-![Requesting Module Screenshot 3](screenshots/request3sc.png)
-![Requesting Module Screenshot 3](screenshots/requestmobile1sc.png)
+![Requesting Module Screenshot 1](frontend/screenshots/request1sc.png)
+![Requesting Module Screenshot 2](frontend/screenshots/request2sc.png)
+![Requesting Module Screenshot 3](frontend/screenshots/request3sc.png)
+![Requesting Module Screenshot 3](frontend/screenshots/requestmobile1sc.png)
 
 ## Setup
 
