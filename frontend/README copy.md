@@ -1,0 +1,3 @@
+- cd to ncs-ii-ims-app
+- run npm install
+- run npm run start
