@@ -41,7 +41,7 @@ To get the NCS II Information Management System up and running on your local mac
 
 1. **Clone the Repository:** Download the project by cloning the GitHub repository to your local machine.
 
-2. **Install Dependencies:** Navigate to the project directory in your terminal `cd to ncs-ii-ims-app` and run `npm install` to install all necessary dependencies.
+2. **Install Dependencies:** Navigate to the project directory in your terminal `cd to frontend` and run `npm install` to install all necessary dependencies.
 
 3. **Start the Application:** After installation, run `npm run start` to launch the application.
 
